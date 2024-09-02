@@ -12,9 +12,19 @@
 /* main setting */
 .content{
     padding-left: 200px;
-    padding-right: 600px;
+    padding-right: 200px;
 }
 h1{
     font-weight: 800;
     
+}
+.author{
+    color: grey;
+    font-weight: 600;
+}
+.word-color{
+    color: rgb(44, 153, 226);
+}
+.paragraph-color{
+    background-color: yellow;
 }
