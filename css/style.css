@@ -1,0 +1,12 @@
+/* header setting */
+div{
+    background-image: url(../img/pattern.png);
+    height: 230px;
+    background-color: rgb(54, 147, 179);
+    
+}
+img{
+    height: 100px;
+    padding-left: 200px;
+    padding-top: 100px;
+}   
